@@ -1,2 +1,3 @@
-# Master's Thesis: "Leveraging social media activity to automatically detect the onset of depression"
-This repository contains the most notebooks used to produce the results of the thesis.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9167111fbdd06ddee2ce992dcb1c65c91a0a62423da738d8172cb1e03a23a07c
+size 189
